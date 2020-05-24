@@ -1,3 +1,4 @@
+//修改01
 package day001.inputstream01;
 /**
  * 读写二进制文件mp3/JPG
